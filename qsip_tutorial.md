@@ -12,7 +12,7 @@ The tutorial is divided up into four parts:
 **Data and calculations correspond to the following publication:**
 
 Stone BW, Dijkstra P, Finley BK, *et al.*. Life history strategies among
-soil bacteria—dichotomy for few, continuum for many *ISME Journal* 2023,
+soil bacteria—dichotomy for few, continuum for many. *ISME Journal* 2023,
 DOI:
 [10.1038/s41396-022-01354-0](https://doi.org/10.1038/s41396-022-01354-0).
 
